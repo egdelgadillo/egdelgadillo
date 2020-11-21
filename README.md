@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Banner](https://github.com/egdelgadillo/egdelgadillo/assets/Github%20Profile%20Banner.jpg)
+![Banner](https://github.com/egdelgadillo/egdelgadillo/blob/main/assets/Github%20Profile%20Banner.jpg)
 
 <!--
 **egdelgadillo/egdelgadillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
