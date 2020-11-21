@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 ![Banner](https://github.com/egdelgadillo/egdelgadillo/blob/main/assets/Github%20Profile%20Banner.png)
 
 ### Hi there 👋 Welcome to my Profile!
+=======
+![Banner](https://github.com/egdelgadillo/egdelgadillo/blob/main/assets/Github%20Profile%20Banner.jpg)
+>>>>>>> 7ac381a694074902b48b92d63539f795164c4418
 
+### Hi 👋 Welcome to my Github Profile! 😄
 <!--
 **egdelgadillo/egdelgadillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
