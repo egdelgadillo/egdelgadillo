@@ -19,7 +19,6 @@ Well, it all started when I was very young. My dad was what you would call "an �
 
 Later when I was 16 (2007), I was introduced to the ~~brand new~~ 💽 **pascal** language! Only 1 lesson was enough for me (And all I got, btw) and I started solving math problems, limits, calculating capacitor values for given circuit impedances (I went to an electrician school). Of course, the language had its limits, and wasn't that big of a deal amongst other developers.
 
-  <br>
 </details>
 <details>
   <summary>🎥 <b>Time to Hack...</b></summary>
@@ -37,7 +36,6 @@ The experience I acquired with **ASM** was very helpful when I had to present a 
 
 Although I didn't become a hacker, I learnt AWESOME things many of which I still use and apply up to this days. Even more when I became a System Administrator...
 
-  <br>
 </details>
 <details>
   <summary>🤓 <b>The new IT guy</b></summary>
@@ -45,7 +43,6 @@ Although I didn't become a hacker, I learnt AWESOME things many of which I still
 
 After graduating with honors, I had to go out and get a job. Oh well, that wasn't very easy, even though I knew all I knew. What should I do with all my acquired knowledge? The easiest and fastest job was to start doing **PC repair**. So following my father steps I became the "new _IT guy_ 🤓". It was alright, but deleting viruses, reinstalling Windows and restoring backups wasn't very challenging at all. In 2012, my father encouraged me to take on a Cisco's CCNA 1 course, and I did (It's now expired). Oh boy, **networking**, that was HARD... even more at a Cisco course. The teacher was alright, the problem was I 😜. Although I finished it and passed the tests, I didn't have anywhere to apply that knowledge. All I had was a home WiFi to experiment with, which wasn't very exciting.
 
-  <br>
 </details>
 <details>
   <summary>🌐 <b>Network Administrator</b></summary>
@@ -59,7 +56,6 @@ As we had so many devices, and no one could remember them all (And were not prop
 
 I still got backups of those times... But networking wasn't gonna cut it. As you can tell by now, I had the urge to develop!
 
-  <br>
 </details>
 <details>
   <summary>🖥️ <b>System Administrator</b></summary>
