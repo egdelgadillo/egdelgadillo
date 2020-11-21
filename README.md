@@ -1,4 +1,4 @@
-![Banner](https://github.com/egdelgadillo/egdelgadillo/blob/main/assets/Github%20Profile%20Banner.png)
+![Banner](https://github.com/egdelgadillo/egdelgadillo/blob/main/assets/Github%20Profile%20Banner%202.png)
 
 ### Hi 👋 Welcome to my Github Profile! 😄
 
