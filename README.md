@@ -4,16 +4,17 @@
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:emilianog.delgadillo@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-delgadillo-08b2a6196/)
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/egdelgadillo)
-[![Stack Overflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/14107359/emiliano-gaston-delgadillo)
+[![Stack Overflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/14107359/emiliano-g-delgadillo)
 ![Updated Badge](https://badges.pufler.dev/updated/egdelgadillo/egdelgadillo)
 
-## Hola! 👋 Welcome to my Github Profile! 😄
+# Hola! 👋 Welcome to my Github Profile! 😄
 
-#### Nice to meet you, I'm **Emiliano G. Delgadillo**.
+### Nice to meet you, I'm **Emiliano G. Delgadillo**.
 
 ###### (_Wanna know what the "G." stands for? [Contact me!](#contact--availability)_ 😉)
 
-#### Here you'll find all the info you will need to get to know me better. Let me tell you a bit about myself...
+<br>
+Here you'll find all the info you will need to get to know me better. Let me tell you a bit about myself...
 
 I'm a Latin American developer. I'm currently living in **Argentina** (_GMT-3_), the country of the world famous 🥩 **asado** and one of the world's biggest 🧉 **mate** consumer per capita. Both have accompanied me through my life, from a toddler to a professional developer, and I share my dearest memories with them. But that's just food... I didn't even tell you anything about my friends, family, teachers, my wife... well, you get the idea... 😉
 
@@ -268,10 +269,10 @@ As I'm looking for opportunities to grow, offers in where some kind of mentorshi
 
 -->
 
-You can contact me (_by order of importance_) via [Email](mailto:emilianog.delgadillo@gmail.com), [LinkedIn](https://www.linkedin.com/in/emiliano-delgadillo-08b2a6196/), [Twitter](https://twitter.com/egdelgadillo), [StackOverflow](https://stackoverflow.com/users/14107359/emiliano-gaston-delgadillo), or even [Github](https://github.com/egdelgadillo/egdelgadillo/issues) (Yeah, you can write me an issue on this repo 😆, why not?)
+You can contact me (_by order of importance_) via [Email](mailto:emilianog.delgadillo@gmail.com), [LinkedIn](https://www.linkedin.com/in/emiliano-delgadillo-08b2a6196/), [Twitter](https://twitter.com/egdelgadillo), [StackOverflow](https://stackoverflow.com/users/14107359/emiliano-g-delgadillo), or even [Github](https://github.com/egdelgadillo/egdelgadillo/issues) (Yeah, you can write me an issue on this repo 😆, why not?)
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/egdelgadillo)
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:emilianog.delgadillo@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-delgadillo-08b2a6196/)
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/egdelgadillo)
-[![Stack Overflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/14107359/emiliano-gaston-delgadillo)
+[![Stack Overflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/14107359/emiliano-g-delgadillo)
