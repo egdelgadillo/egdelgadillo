@@ -88,7 +88,7 @@ So I decided I wanted to work online, get rid of the local economy and be able t
 
 </details>
 <details>
-  <summary><b>Freelancing</b></summary>
+  <summary>⌨️ <b>Freelancing</b></summary>
   <br>
 
 A **dear friend of mine**, an superb developer, to whom I owe a lot, helped me. He gave me whet I needed the most: _encouragement and mentorship_. So under his wing I invested months upon months of study, practice, tutorials, projects and of course work. I am very grateful to him for what he's done.
@@ -100,15 +100,12 @@ For me, this was the revelation of the century. It wasn't the **Human Genome Pro
 So yeah, now I'm perfecting my **Typescript skills**, becoming a professional developer for the first time. I'm very confident now as a developer, who doesn't know it all, but now knows enough.
 
 </details>
-<br>
 
-So this is a **very detailed** history of me. Did you like it? Pretty amazing if you ask me 😛
+So this is a **very detailed** history of me. Did you like it? Pretty amazing if you ask me 😜
 
 ### TL;DR
 
 Long story short, I'm a developer who knows A LOT of MANY things, but who is now focusing on learning fewer things but at a more professional level, in depth.
-
-<br>
 
 ---
 
