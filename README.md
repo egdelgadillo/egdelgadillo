@@ -150,7 +150,7 @@ _(Junior levels include experience, testing and real-life projects)_
 
 - **NodeJS** - Level: 🟢 _Semi Senior_
 
-### Languages
+### Development
 
 - **Javascript** - Level: 🟢 _Semi Senior_
 
@@ -195,6 +195,18 @@ _(Junior levels include experience, testing and real-life projects)_
 - **Clean Code Architecture (Uncle Martin)** - Level: 🟠 _Advanced Junior_
 
 - **Linting (strict)** - Level: 🟠 _Advanced Junior_
+
+### Languages
+
+- **Spanish** - Level: 🟢 _Expert_
+
+- **English** - Level: 🟢 _Expert_
+
+- **Argentinian Sign Language** - Level: 🟢 _Senior_
+
+- **Guaraní** - Level: 🟠 _Advanced Junior_
+
+- **German** - Level: 🟡 _Junior_
 
 ### Miscellaneous
 
