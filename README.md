@@ -1,14 +1,14 @@
 ![Banner](https://github.com/egdelgadillo/egdelgadillo/blob/main/assets/Github%20Profile%20Banner.png)
 
-### Hola! 👋 Welcome to my Github Profile! 😄
+## Hola! 👋 Welcome to my Github Profile! 😄
 
 Nice to meet you, I'm Emiliano G. Delgadillo. Let me tell you a bit about myself...
 
 I'm a Latin American developer. I'm currently living in **Argentina** (_GMT-3_), the country of the world famous 🥩 **asado** and one of the world's biggest 🧉 **mate** consumer per capita. Both have accompanied me through my life, from a toddler to a professional developer, and I share my dearest memories with them. But that's just food... I didn't even tell you anything about my friends, family, teachers, my wife... well, you get the idea... 😉
 
-## 📓 My history
+## 📓 A bit about myself...
 
-Wanna know what drives me? How I came to be the developer I am now? Read this **exciting** story about me, developing myself in the **IT** world...
+Wanna know what drives me? How I came to be the developer I am now? Read this **exciting** and **extensive** story about me, developing myself in the **IT** world...
 <br>
 
 <details>
@@ -109,9 +109,81 @@ Long story short, I'm a developer who knows A LOT of MANY things, but who is now
 
 ---
 
-<br>
-
 Well, but I bet you're not here to chat. Let's cut to the chase, shall we?
+
+## Work Experience
+
+- **2010 - 2015: PC Repair Service** - Autonomous
+
+  Read more about this at the "_The new IT guy_" section.
+
+- **2015 - 2017: Network Administrator** @ OPTIC Neuquén
+
+  Read more about this at the "_Network Administrator_" section.
+
+- **2017 - 2020: System Administrator** @ OPTIC Neuquén
+
+  Read more about this at the "_System Administrator_" section.
+
+- **2020 - Present: Javascript/Typescript Backend \& Frontend Developer** - Freelancer
+
+  Using technologies such as **NodeJS**, **Javascript**, **Typescript** and **Angular 10+**. Read a brief description about this at the "_Freelancing_" section.
+
+## Skills
+
+If you were able to read my [Bio](#-a-bit-about-myself), you'll notice that I got many skills and am able to handle several languages, but this are the skills I'm confident to provide professionally:
+
+_(Junior levels include experience, testing and real-life projects)_
+
+- **NodeJS** - Level: 🟢 _Semi Senior_
+
+### Languages
+
+- **Javascript** - Level: 🟢 _Semi Senior_
+
+- **Typescript** - Level: 🟢 _Semi Senior_
+
+- **Angular 10+** - Level: 🟡 _Junior_
+
+### Unit Testing
+
+- **Jest** - Level: 🟠 _Advanced Junior_
+
+### Integration Testing
+
+- **Newman** - Level: 🟡 _Junior_
+
+- **Postman** - Level: 🟡 _Junior_
+
+### Documenting
+
+- **Markdown** - Level: 🟢 _Semi Senior_
+
+- **Swagger / OpenAPI** - Level: 🟢 _Semi Senior_
+
+- **JSDoc / Typedoc** - Level: 🟢 _Semi Senior_
+
+- **Architecture Diagrams** - Level: 🟡 _Junior_
+
+- **Flow Diagrams** - Level: 🟡 _Junior_
+
+- **Sequence Diagrams** - Level: 🟡 _Junior_
+
+### Good Practices
+
+- **Clean Code Architecture (Uncle Martin)** - Level: 🟠 _Advanced Junior_
+
+- **Linting (strict)** - Level: 🟠 _Advanced Junior_
+
+## Projects
+
+To be continued...
+
+## Goals
+
+To be continued...
+
+## Contact & Availability
 
 To be continued...
 
