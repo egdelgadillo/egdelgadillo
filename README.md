@@ -11,7 +11,7 @@
 
 ### Nice to meet you, I'm **Emiliano G. Delgadillo**.
 
-<sub><sup> (_Wanna know what the "G." stands for? [Contact me!](#contact--availability)_ 😉)</sup></sub>
+<sub><sup> (_Wanna know what the "**G.**" stands for? [Contact me!](#contact--availability)_ 😉)</sup></sub>
 
 Here you'll find all the info you will need to get to know me better. Let me tell you a bit about myself...
 
