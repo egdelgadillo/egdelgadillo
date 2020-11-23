@@ -15,6 +15,7 @@
 
 <br>
 Here you'll find all the info you will need to get to know me better. Let me tell you a bit about myself...
+<br>
 
 I'm a Latin American developer. I'm currently living in **Argentina** (_GMT-3_), the country of the world famous 🥩 **asado** and one of the world's biggest 🧉 **mate** consumer per capita. Both have accompanied me through my life, from a toddler to a professional developer, and I share my dearest memories with them. But that's just food... I didn't even tell you anything about my friends, family, teachers, my wife... well, you get the idea... 😉
 
