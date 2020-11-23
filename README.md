@@ -28,7 +28,7 @@ Later when I was 16 (2007), I was introduced to the ~~brand new~~ 💽 **pascal*
 
 Long story short, I started frequenting "hacker" forums and learned all I ever needed about **Cybersecurity**. Although I didn't become a Hacker, I had my first mentoring on other awesome languages, such as 🤡 **batch** (Yeah, I know, but trust me, it sounded way much better back then 😜). Nevertheless, those times were very helpful. I learnt **visual basic**, some **C** and **C++** (Which I didn't fully understand at that time, I even printed a FAT free PDF, but still no use...), some primitive **javascript** and **HTML**. Also I understood what a **page defacement** is, what **DOS** and **DDOS** are, what **SQL Injection** is, how to test and attack and **how to defend against them**.
 
-By that time, I started reading the [Hack x Crack](https://hackxcrack.net/foro/cuadernos_antiguos/) magazines, which wasn't very easy as they were banned from being published on Spain due to legal issues (I know, I lived in Argentina, still I red them online). I remember reading about **C&C** experiments, **passive vs active connections** to bypass firewalls. Until then I was still a Linux-virgin until **Backtrack** came into my life (Now known as **Kali Linux**) also thanks to those magazines. My first experiences with **aircrack** and **WEP** vs **WPA** security issues was amazing. Binary **Cracking** and some kind of **reverse engineering** was the last thing I learnt at that period of time. It was awesome to learn basic **assembler** and to be able to reverse some **CrackMe**s. I learnt a lot with that experience, what a **BUS** is, what an **x86** architecture and instructions are, how the **hexadecimal** numeric system works, how the **binary** system works, how a computer _really_ works; I felt like NEO 😜.
+By that time, I started reading the [Hack x Crack](https://hackxcrack.net/foro/cuadernos_antiguos/) magazines, which wasn't very easy as they were banned from being published on Spain due to legal issues (I know, I lived in Argentina, still I red them online). I remember reading about **C&C** experiments, **passive vs active connections** to bypass firewalls. Until then I was still a Linux-virgin until **Backtrack** came into my life (Now known as **Kali Linux**) also thanks to those magazines. My first experiences with **aircrack** and **WEP** vs **WPA** security issues was amazing. Binary **Cracking** and some kind of **reverse engineering** was the last thing I learnt at that period of time. It was awesome to learn basic **assembler** and to be able to reverse some **CrackMe**s. I learnt a lot with that experience, what a **BUS** is, what an **x86** architecture and instructions are, how the **hexadecimal** numeric system works, how the **binary** system works, how a computer _really_ works\; I felt like NEO 😜.
 
 Some years before that I started playing a MMORPG called Silkroad (Now extinct), but it was the usual, hunt mobs, get XP, items, level up, repeat king of thing. It got tedious over time. So with all the knowledge I now had I got to code my first personal project, a 1k+ line macro bot using **AutoIt**, a macro programming language, very easy to use. There I harnessed the power of **loops** and **functional programming**. I also had to modify the game client to allow me to use the bot, and for that I had to patch the executable, injecting some in-memory modified (**ASM**) jumps right after executing it, and thus unlock some in-game features. Too bad I lost it all... (A harsh lesson I learned because of the lack of proper backups). Still, golden ages for me.
 
@@ -63,7 +63,7 @@ I still got backups of those times... But networking wasn't gonna cut it. As you
 
 Some years later, in 2017, I switched positions within the same organization. An open position appeared, a System Administrator position. I loved it. Now I was able to level up my Operating Systems skills. Still, we were a small team of 3, so we had A LOT of work to do. Hundreds of **Linux and Windows virtual machines**, **Internet Access** using **squid proxy** for thousands of users every day, managing access and **content filtering** using both squid proxies and **firewalls** for both old and new users, of course **load balancing** them all due to the sheer amount of users, setting up and upgrading the **email services** using **Postfix and Dovecot**, **Networking**, managing the **DMZ**, installing **VMWare and OracleVM** on the Datacenter blades, **backups**, **Cybersecurity**, and the list goes on and on...
 
-This was the time when I learnt the most and the fastest. It was amazing, though not without its disadvantages. We were a super tiny team handling the responsibility dozens or hundreds should. Sometimes the amount of work and problems surpassed us; we couldn't keep up. Nevertheless, we had some peaceful times, specially during the holidays. Many new projects were born during those times, some still stand while other died right there. We had the liberty to experiment, test, apply and grow, both as Developers and as SysAdmins. I'm not sure if this was already what you would call a **DevOps** area, but we were there.
+This was the time when I learnt the most and the fastest. It was amazing, though not without its disadvantages. We were a super tiny team handling the responsibility dozens or hundreds should. Sometimes the amount of work and problems surpassed us\; we couldn't keep up. Nevertheless, we had some peaceful times, specially during the holidays. Many new projects were born during those times, some still stand while other died right there. We had the liberty to experiment, test, apply and grow, both as Developers and as SysAdmins. I'm not sure if this was already what you would call a **DevOps** area, but we were there.
 
 Yes, I said "Developer". We had so much stuff, we needed automation for most. **Bash** was my second best friend here. All **Debian and RedHat-based Linux OS(es)** had some bit of automation, whether it be for security, repetitive tasks, reports, you name it. I really believe I could not have got a better "education" than being there, hands on keyboard, googling, _StackOverflowing_, researching, testing and admiring the beauty of what we managed to create.
 
@@ -103,7 +103,7 @@ So yeah, now I'm perfecting my **Typescript skills**, becoming a professional de
 
 So this is a **very detailed** history of me. Did you like it? Pretty amazing if you ask me 😜
 
-### TL;DR
+### TL\;DR
 
 Long story short, I'm a developer who knows A LOT of MANY things, but who is now focusing on learning fewer things but at a more professional level, in depth.
 
@@ -136,6 +136,8 @@ If you were able to read my [Bio](#-a-bit-about-myself), you'll notice that I go
 _(Junior levels include experience, testing and real-life projects)_
 
 - **NodeJS** - Level: 🟢 _Semi Senior_
+
+- **Design (Creative - Without template)** - Level: 🟡 _Junior_
 
 ### Languages
 
@@ -175,17 +177,43 @@ _(Junior levels include experience, testing and real-life projects)_
 
 - **Linting (strict)** - Level: 🟠 _Advanced Junior_
 
+## Strengths
+
+- I'm a **very good team worker**. I'm not competitive by nature, so I don't mind suggestions and accepting advices when they are correct.
+
+- Not afraid of criticism. I **love constructive criticism**, as long as it's not aggressive nor done in bad-faith. I'm aware that _I need to improve_ and I won't be able to do so if nobody corrects me. Therefore, **criticism is welcomed in order to improve**.
+
+- **Very fast learner**. I mean, I'm very fast at picking up new concepts, as long as I'm able to apply that knowledge or relate it with previously know concepts.
+
+- Not afraid to suggest. I'm up for improving and learning. No matter who is the leader, if it is my place and right to do it, I am able to suggest ideas and come up with solutions.
+
+- Not afraid to lead whenever I know I have the required level to do so. Taking the lead _is not something I crave_ (I'm not trying to stand out all the time) _but I'm not afraid to do it and I possess the right skills to do it_.
+
+## Weaknesses
+
+- I'm not a very good designer (yet). This is something that doesn't come naturally to me (as do others), therefore I must exercise it. _This does not include replicating templates already done by designers_. It applies to the creative process of choosing and combining colors, shapes and sizes.
+
+- Reading long documentations. I mean, we've all been there. Sometimes I'm lazy while reading a long and exhaustive documentation. I prefer to cut to the chase and extract the sections I'm looking for, or need to apply and just do it.
+
 ## Projects
 
-To be continued...
+// TODO
 
 ## Goals
 
-To be continued...
+I'm now looking to grow as a developer. I know I am lacking some skills and that I need to improve them. Nevertheless I'm a dedicated and fast learner, a liable person as well as a developer. I got nothing to hide, as you can see\; I'm an open book. I work the same way. Honest, detailed and responsible.
+
+As I'm looking for opportunities to grow, offers in where some kind of mentorship is on the table, in any of its forms, are very tempting to me.
 
 ## Contact & Availability
 
-To be continued...
+> ---
+>
+> ## 🟢 **I'm currently open to new offers** 🟢
+>
+> ---
+
+You can contact me (_by order of importance_) via [Email](mailto:emilianog.delgadillo@gmail.com), [LinkedIn](https://www.linkedin.com/in/emiliano-delgadillo-08b2a6196/), [StackOverflow](https://stackoverflow.com/users/14107359/emiliano-gaston-delgadillo), or even [Github](https://github.com/egdelgadillo/egdelgadillo/issues) (Yeah, you can write me an issue on this repo 😆, why not?)
 
 <!--
 **egdelgadillo/egdelgadillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
