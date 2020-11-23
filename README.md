@@ -11,7 +11,7 @@
 
 ### Nice to meet you, I'm **Emiliano G. Delgadillo**.
 
-###### (_Wanna know what the "G." stands for? [Contact me!](#contact--availability)_ 😉)
+<sub><sup> (_Wanna know what the "G." stands for? [Contact me!](#contact--availability)_ 😉)</sup></sub>
 
 Here you'll find all the info you will need to get to know me better. Let me tell you a bit about myself...
 
@@ -242,7 +242,7 @@ As I'm looking for opportunities to grow, offers in where some kind of mentorshi
 >
 > ### 🟢 **I'm currently open to new offers!** 🟢
 >
-> ###### (🎉 _Hurray!_ 🎊)
+> <sub>(🎉 _Hurray!_ 🎊)</sub>
 >
 > ---
 
@@ -252,7 +252,7 @@ As I'm looking for opportunities to grow, offers in where some kind of mentorshi
 >
 > ### 🟠 **I'm not actively looking for new offers...** 🟠
 >
-> ###### (Am I _really_ not? 🤔)
+> <sub>(Am I _really_ not? 🤔)</sub>
 >
 > ---
 
@@ -262,7 +262,7 @@ As I'm looking for opportunities to grow, offers in where some kind of mentorshi
 >
 > ### 🔴 **I'm NOT open to new offers right now!** 🔴
 >
-> ###### (_Yikes!_ 😔)
+> <sub>(_Yikes!_ 😔)</sub>
 >
 > ---
 
