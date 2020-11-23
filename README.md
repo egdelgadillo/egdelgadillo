@@ -1,12 +1,25 @@
 ![Banner](https://github.com/egdelgadillo/egdelgadillo/blob/main/assets/Github%20Profile%20Banner.png)
 
+[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/egdelgadillo)
+[![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:emilianog.delgadillo@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-delgadillo-08b2a6196/)
+[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/egdelgadillo)
+[![Stack Overflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/14107359/emiliano-gaston-delgadillo)
+![Updated Badge](https://badges.pufler.dev/updated/egdelgadillo/egdelgadillo)
+
 ## Hola! 👋 Welcome to my Github Profile! 😄
 
-Nice to meet you, I'm Emiliano G. Delgadillo. Let me tell you a bit about myself...
+#### Nice to meet you, I'm **Emiliano G. Delgadillo**.
+
+###### (_Wanna know what the "G." stands for? [Contact me!](#contact--availability)_ 😉)
+
+#### Here you'll find all the info you will need to get to know me better. Let me tell you a bit about myself...
 
 I'm a Latin American developer. I'm currently living in **Argentina** (_GMT-3_), the country of the world famous 🥩 **asado** and one of the world's biggest 🧉 **mate** consumer per capita. Both have accompanied me through my life, from a toddler to a professional developer, and I share my dearest memories with them. But that's just food... I didn't even tell you anything about my friends, family, teachers, my wife... well, you get the idea... 😉
 
-## 📓 A bit about myself...
+Wanna know more? Read on! Or... you can [skip to the good part...](#work-experience)
+
+## 📓 About Me
 
 Wanna know what drives me? How I came to be the developer I am now? Read this **exciting** and **extensive** story about me, developing myself in the **IT** world...
 <br>
@@ -137,8 +150,6 @@ _(Junior levels include experience, testing and real-life projects)_
 
 - **NodeJS** - Level: 🟢 _Semi Senior_
 
-- **Design (Creative - Without template)** - Level: 🟡 _Junior_
-
 ### Languages
 
 - **Javascript** - Level: 🟢 _Semi Senior_
@@ -146,6 +157,14 @@ _(Junior levels include experience, testing and real-life projects)_
 - **Typescript** - Level: 🟢 _Semi Senior_
 
 - **Angular 10+** - Level: 🟡 _Junior_
+
+### Databases
+
+- **MongoDB** - Level: 🟠 _Advanced Junior_
+
+- **PostgreSQL** - Level: 🟠 _Advanced Junior_
+
+- **mySQL** - Level: 🟠 _Advanced Junior_
 
 ### Unit Testing
 
@@ -177,6 +196,12 @@ _(Junior levels include experience, testing and real-life projects)_
 
 - **Linting (strict)** - Level: 🟠 _Advanced Junior_
 
+### Miscellaneous
+
+- **Sequelize**: 🟠 _Advanced Junior_
+
+- **Design (Creative - Without template)** - Level: 🟡 _Junior_
+
 ## Strengths
 
 - I'm a **very good team worker**. I'm not competitive by nature, so I don't mind suggestions and accepting advices when they are correct.
@@ -191,41 +216,62 @@ _(Junior levels include experience, testing and real-life projects)_
 
 ## Weaknesses
 
-- I'm not a very good designer (yet). This is something that doesn't come naturally to me (as do others), therefore I must exercise it. _This does not include replicating templates already done by designers_. It applies to the creative process of choosing and combining colors, shapes and sizes.
+- I'm not a very good designer (yet). This is something that doesn't come naturally to me (as do others), therefore **I must exercise it**. _This does not include replicating templates already done by designers_. It applies to the creative process of choosing and combining colors, shapes and sizes.
 
-- Reading long documentations. I mean, we've all been there. Sometimes I'm lazy while reading a long and exhaustive documentation. I prefer to cut to the chase and extract the sections I'm looking for, or need to apply and just do it.
+- Reading long documentations. I mean, we've all been there. Sometimes I'm lazy while reading a long and exhaustive documentation. **I prefer to cut to the chase and just extract the data I'm looking for**, or needing to apply and just do it.
 
 ## Projects
 
-// TODO
+(Some projects I've been working on to show you...)
+
+// TODO: Complete
 
 ## Goals
 
-I'm now looking to grow as a developer. I know I am lacking some skills and that I need to improve them. Nevertheless I'm a dedicated and fast learner, a liable person as well as a developer. I got nothing to hide, as you can see\; I'm an open book. I work the same way. Honest, detailed and responsible.
+**I'm now looking to grow as a developer**. I know I am lacking some skills and that I need to improve them. Nevertheless I'm a dedicated and fast learner, a liable person as well as a developer. I got nothing to hide, as you can see\; I'm an open book. I work the same way. Honest, detailed and responsible.
 
 As I'm looking for opportunities to grow, offers in where some kind of mentorship is on the table, in any of its forms, are very tempting to me.
+
+**I'm also looking for flexible work hours**. For companies who focus more on deadlines rather that strict work hours, I believe I would be a nice addition.
+
+**I am NOT looking for presencial work, ONLY REMOTE** (Not negotiable). My life outside of work is very important, and it is very diverse, ranging from familiar to recreational and even spiritual. I would not trade this for money.
 
 ## Contact & Availability
 
 > ---
 >
-> ## 🟢 **I'm currently open to new offers** 🟢
+> ### 🟢 **I'm currently open to new offers!** 🟢
+>
+> ###### (🎉 _Hurray!_ 🎊)
 >
 > ---
 
-You can contact me (_by order of importance_) via [Email](mailto:emilianog.delgadillo@gmail.com), [LinkedIn](https://www.linkedin.com/in/emiliano-delgadillo-08b2a6196/), [StackOverflow](https://stackoverflow.com/users/14107359/emiliano-gaston-delgadillo), or even [Github](https://github.com/egdelgadillo/egdelgadillo/issues) (Yeah, you can write me an issue on this repo 😆, why not?)
-
 <!--
-**egdelgadillo/egdelgadillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> ---
+>
+> ### 🟠 **I'm not actively looking for new offers...** 🟠
+>
+> ###### (Am I _really_ not? 🤔)
+>
+> ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+----------------------------------------------
+
+> ---
+>
+> ### 🔴 **I'm NOT open to new offers right now!** 🔴
+>
+> ###### (_Yikes!_ 😔)
+>
+> ---
+
 -->
+
+You can contact me (_by order of importance_) via [Email](mailto:emilianog.delgadillo@gmail.com), [LinkedIn](https://www.linkedin.com/in/emiliano-delgadillo-08b2a6196/), [Twitter](https://twitter.com/egdelgadillo), [StackOverflow](https://stackoverflow.com/users/14107359/emiliano-gaston-delgadillo), or even [Github](https://github.com/egdelgadillo/egdelgadillo/issues) (Yeah, you can write me an issue on this repo 😆, why not?)
+
+[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/egdelgadillo)
+[![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:emilianog.delgadillo@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-delgadillo-08b2a6196/)
+[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/egdelgadillo)
+[![Stack Overflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/14107359/emiliano-gaston-delgadillo)
