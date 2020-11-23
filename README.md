@@ -48,7 +48,7 @@ After graduating with honors, I had to go out and get a job. Oh well, that wasn'
   <summary>🌐 <b>Network Administrator</b></summary>
   <br>
 
-Well, well, well, after all, my father's recommendations bear fruit once again. In 2015 a gubernamental agency of the Province of Neuquén (Where I lived) called **OPTIC** needed to fill a **Network Administrator** position. The requirement was a **CCNA** title, and although I only did the first of four courses, it was enough for them. I was less than a junior, but they didn't care. But still, I delivered.
+Well, well, well, after all, my father's recommendations onc again bore fruit. In 2015 a gubernamental agency of the Province of Neuquén (Where I lived) called **OPTIC** needed to fill a **Network Administrator** position. The requirement was a **CCNA** title, and although I only did the first of four courses, it was enough for them. I was less than a junior, but they didn't care. But still, I delivered.
 
 There I got to "play around" and learn from thousands of devices, ranging from **Cisco Switches/Routers/Cores** to long-range connectivity antennas such as **Ubiquity**. Now I could understand all I learnt at the CCNA 1 course. They were literally **thousands of devices** spread across the whole province. Managing them all was a very daunting task, as we were only 3 who had access to all of them. That's how I had my first professional experiences with developing. I started learning **Python 2.7** to automate many of the repetitive tasks, such as testing, checking, rebooting devices, running automated scripts to improve security on the devices (Which had some serious security issues, I mean, really serious, but fortunately they were all prevented thanks to them).
 
@@ -61,15 +61,58 @@ I still got backups of those times... But networking wasn't gonna cut it. As you
   <summary>🖥️ <b>System Administrator</b></summary>
   <br>
 
-To be continued...
+Some years later, in 2017, I switched positions within the same organization. An open position appeared, a System Administrator position. I loved it. Now I was able to level up my Operating Systems skills. Still, we were a small team of 3, so we had A LOT of work to do. Hundreds of **Linux and Windows virtual machines**, **Internet Access** using **squid proxy** for thousands of users every day, managing access and **content filtering** using both squid proxies and **firewalls** for both old and new users, of course **load balancing** them all due to the sheer amount of users, setting up and upgrading the **email services** using **Postfix and Dovecot**, **Networking**, managing the **DMZ**, installing **VMWare and OracleVM** on the Datacenter blades, **backups**, **Cybersecurity**, and the list goes on and on...
+
+This was the time when I learnt the most and the fastest. It was amazing, though not without its disadvantages. We were a super tiny team handling the responsibility dozens or hundreds should. Sometimes the amount of work and problems surpassed us; we couldn't keep up. Nevertheless, we had some peaceful times, specially during the holidays. Many new projects were born during those times, some still stand while other died right there. We had the liberty to experiment, test, apply and grow, both as Developers and as SysAdmins. I'm not sure if this was already what you would call a **DevOps** area, but we were there.
+
+Yes, I said "Developer". We had so much stuff, we needed automation for most. **Bash** was my second best friend here. All **Debian and RedHat-based Linux OS(es)** had some bit of automation, whether it be for security, repetitive tasks, reports, you name it. I really believe I could not have got a better "education" than being there, hands on keyboard, googling, _StackOverflowing_, researching, testing and admiring the beauty of what we managed to create.
+
+But if Bash was my second best friend, **Python** (2.7) was my best best friend. What didn't I create with it? From automation scripts, to managing **LDAP** registries, doing daily **internet consumption reports** (by categories, organizations, location, etc) from millions upon millions of lines of **squid reports**. If this isn't the closest I've been to **Big Data** I don't know what could. Still, managing dozens of daily requests for new internet access, new email users, new virtual machines and new LDAP users was a big task for such a busy and small team. We needed **automation**.
+
+And it actually came in the form of a **Python Flask** backend service serving an **AngularJS + Bootstrap** front end service. They were actually two systems, one of the public, for requesting, managing and accessing their own data, and another one for handling all those requests plus other sector-related work. I loved this project, I developed it all by myself, and it was quite a learning experience. It got to the point where I got to **understand the disadvantages** of big projects served by Flask and the **limitations of Angular.JS**. No matter, I made it work anyways. I even had my way with **Java** to handle the **digital singing of PDFs** using our proprietary digital signature service. I was so proud of it all...
 
 </details>
+<details>
+  <summary>🚨 <b>console.error('Huston, we got a problem...')</b></summary>
+  <br>
 
-### 🩳 TL:DR
+So, you might already see the problem which took me several years to understand:
 
-I know a lot... 😎
+> I had A LOT of knowledge about MANY things, but still **I wasn't a professional in any of them!**
 
-## ⌨️ What I do
+Yup, over the years I got so focused on **learning new things** that I neglected the fact that I had to **start focusing on one thing** to be able to do it right, professionally right. I wasn't confident enough to provide my services to others, and with good reason. I knew a bit of everything, but not enough of any.
+
+Also, work got too political, you know, "deliver fast no matter what" for political campaigns. I started to really dislike the lack of professionalism and good practices, I mean we couldn't, we really couldn't. Besides, the Argentine Peso, the local currency, started loosing value, inflation was a common topic amongst others.
+
+So I decided I wanted to work online, get rid of the local economy and be able to **learn one subject really well** and be confident enough to provide my services, to become a **professional developer**. Well, **good things don't come easy**, and this wasn't the exception. I had to get rid of my old habits, and really focus on one thing, until I learned it well enough. "How?" I wondered...
+
+</details>
+<details>
+  <summary><b>Freelancing</b></summary>
+  <br>
+
+A **dear friend of mine**, an superb developer, to whom I owe a lot, helped me. He gave me whet I needed the most: _encouragement and mentorship_. So under his wing I invested months upon months of study, practice, tutorials, projects and of course work. I am very grateful to him for what he's done.
+
+So, my weapon of choice was... **javascript**, my old friend and foe. But now, with a twist. I started learning it _again_ from the bottom up. I started with **Javascript** to **NodeJS**, until I met **Typescript**. A new era was dawning...
+
+For me, this was the revelation of the century. It wasn't the **Human Genome Project** nor was **SpaceX rockets landing vertically**. It was **Typescript** all along. I mean, combine the power and flexibility of Javascript and above that add the strict typing of other OOP languages like C#, and you get the Typescript **superset**, which even **transpiles your code to JS**. It's magical.
+
+So yeah, now I'm perfecting my **Typescript skills**, becoming a professional developer for the first time. I'm very confident now as a developer, who doesn't know it all, but now knows enough.
+
+</details>
+<br>
+
+So this is a **very detailed** history of me. Did you like it? Pretty amazing if you ask me 😛
+
+### TL;DR
+
+Long story short, I'm a developer who knows A LOT of MANY things, but who is now focusing on learning fewer things but at a more professional level, in depth.
+
+<br>
+
+---
+
+<br>
 
 Well, but I bet you're not here to chat. Let's cut to the chase, shall we?
 
