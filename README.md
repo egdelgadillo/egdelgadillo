@@ -240,13 +240,22 @@ As I'm looking for opportunities to grow, offers in where some kind of mentorshi
 
 > ---
 >
+> ### 🟠 **I'm not actively looking for new offers...** 🟠
+>
+> <sub>(Am I _really_ not? 🤔)</sub>
+>
+> ---
+
+<!--
+
+> ---
+>
 > ### 🟢 **I'm currently open to new offers!** 🟢
 >
 > <sub>(🎉 _Hurray!_ 🎊)</sub>
 >
 > ---
 
-<!--
 
 > ---
 >
