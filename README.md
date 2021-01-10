@@ -17,62 +17,49 @@ _I love software developing, writing documentation and tests and learning new te
 
 ## [About Me](./About%20Me.md)
 
-<sub><sup> Get to know me better... </sup></sub>
+<sub> Get to know me better... </sub>
 
 ## [Skills](Skills.md)
 
-<sub><sup> Want to know what I'm **good** and _bad_ at?</sup></sub>
+<sub> Want to know what I'm **good** and _bad_ at?</sub>
 
 ## [Projects](./Projects.md)
 
-<sub><sup> Let me show you how what I do...</sup></sub>
+<sub> Let me show you how what I do...</sub>
 
 ## [Work Experience](./Work%20Experience.md)
 
-<sub><sup> Who, when and why...</sup></sub>
+<sub> Who, when and why...</sub>
 
 ## [Goals](./Goals.md)
 
-<sub><sup> What I'm trying to accomplish as a software developer...</sup></sub>
+<sub> What I'm trying to accomplish as a software developer...</sub>
 
 ## Contact & Availability
 
-> ---
->
-> ### 🟢 **I'm currently open to new offers!** 🟢
->
-> <sub>(🎉 _Hurray!_ 🎊)</sub>
->
-> ---
+My current status is:
+
+### 🟢 **I'm currently open to new offers!**
+
+<sub>(🎉 _Hurray!_ 🎊)</sub>
 
 <!--
 
-> ---
->
-> ### 🟢 **I'm currently open to new offers!** 🟢
->
-> <sub>(🎉 _Hurray!_ 🎊)</sub>
->
-> ---
+### 🟢 **I'm currently open to new offers!**
 
+<sub>(🎉 _Hurray!_ 🎊)</sub>
 
-> ---
->
-> ### 🟠 **I'm not actively looking for new offers...** 🟠
->
-> <sub>(Am I _really_ not? 🤔)</sub>
->
-> ---
+---
 
-----------------------------------------------
+### 🟠 **I'm not actively looking for new offers...**
 
-> ---
->
-> ### 🔴 **I'm NOT open to new offers right now!** 🔴
->
-> <sub>(_Yikes!_ 😔)</sub>
->
-> ---
+<sub>(Am I _really_ not? 🤔)</sub>
+
+---
+
+### 🔴 **I'm NOT open to new offers right now.**
+
+<sub>(_Yikes!_ 😔)</sub>
 
 -->
 
