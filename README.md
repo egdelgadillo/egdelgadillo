@@ -15,27 +15,27 @@ I'm a Latin American developer currently living in **Paraguay** (_GMT-3/4_), but
 
 _I love software developing, writing documentation and tests and learning new technologies!_
 
-#### [About Me](./About%20Me.md)
+## [About Me](./About%20Me.md)
 
 <sub><sup> Get to know me better... </sup></sub>
 
-#### [Skills](Skills.md)
+## [Skills](Skills.md)
 
 <sub><sup> Want to know what I'm **good** and _bad_ at?</sup></sub>
 
-#### [Projects](./Projects.md)
+## [Projects](./Projects.md)
 
 <sub><sup> Let me show you how what I do...</sup></sub>
 
-#### [Work Experience](./Work%20Experience.md)
+## [Work Experience](./Work%20Experience.md)
 
 <sub><sup> Who, when and why...</sup></sub>
 
-#### [Goals](./Goals.md)
+## [Goals](./Goals.md)
 
 <sub><sup> What I'm trying to accomplish as a software developer...</sup></sub>
 
-#### Contact & Availability
+## Contact & Availability
 
 > ---
 >
