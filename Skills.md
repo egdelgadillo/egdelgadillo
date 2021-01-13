@@ -95,8 +95,6 @@ _(All levels include experience, testing, and real-life projects)_
 
 - **Guaraní** - Level: 🟡 _Pretty Good_
 
-- **German** - Level: 🟠 Beginner
-
 ## Strengths
 
 - I'm a **very good team worker**. I'm not competitive by nature, so I don't mind suggestions and accepting advice when they are correct.
