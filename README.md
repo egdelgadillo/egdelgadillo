@@ -11,9 +11,9 @@
 
 #### Freelance Software Developer, IT Pro & Tech Enthusiast
 
-I'm a Latin American developer currently living in **Paraguay** (_GMT-3/4_), but I'm originally from **Argentina**, the country of the world-famous 🥩 **Asado** and one of the world's biggest 🧉 **Mate** consumers per capita. Both have accompanied me through my life, from a toddler to a professional developer; I share my dearest memories with them.
+Self-taught, fast-learner, and highly motivated Software Developer, specializing in Typescript Backend development. My Typescript skills get better with every passing day. I have a great passion for writing clean and clear code, documentation, and efficient tests.
 
-_I love software developing, writing documentation and tests and learning new technologies!_
+I'm currently living in **Paraguay** (_GMT-3/4_), but I'm originally from **Argentina**, the country of the world-famous 🥩 **Asado** and one of the world's biggest 🧉 **Mate** consumers per capita. Both have accompanied me through my life, from a toddler to a professional developer; I share my dearest memories with them.
 
 ## [About Me](./About%20Me.md)
 
