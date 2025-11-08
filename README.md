@@ -11,9 +11,9 @@
 
 #### Freelance Software Developer, IT Pro & Tech Enthusiast
 
-Self-taught, fast-learner, and highly motivated Software Developer, specializing in Typescript Backend development. My Typescript skills get better with every passing day. I have a great passion for writing clean and clear code, documentation, and efficient tests.
+Self-taught, fast-learner and highly motivated Fullstack Software Developer, specializing in Typescript. Born in '91, I have  great passion for what I do, specially when I code; I see it as an art form. I don't like AI taking over, although I do let it help me with menial tasks, specially when it comes to plain text geneation/interpretation (Not this though, what you're reading is 100% handmade)
 
-I'm currently living in **Paraguay** (_GMT-3/4_), but I'm originally from **Argentina**, the country of the world-famous 🥩 **Asado** and one of the world's biggest 🧉 **Mate** consumers per capita. Both have accompanied me through my life, from a toddler to a professional developer; I share my dearest memories with them.
+I'm currently living in **Paraguay** (_GMT-3_), but I'm originally from **Argentina**, the country of the world-famous 🥩 **Asado** and one of the world's biggest 🧉 **Mate** consumers per capita. Both have accompanied me through my life, from a toddler to a professional developer; I share my dearest memories with them.
 
 ## [About Me](./About%20Me.md)
 
@@ -39,9 +39,9 @@ I'm currently living in **Paraguay** (_GMT-3/4_), but I'm originally from **Arge
 
 My current status is:
 
-### 🟢 **I'm currently open to new offers!**
+### 🔴 **I'm NOT open to new offers right now.**
 
-<sub>(🎉 _Hurray!_ 🎊)</sub>
+<sub>(_Yikes!_ 😔, but feel free to contact me, we can chat!)</sub>
 
 <!--
 
@@ -53,7 +53,7 @@ My current status is:
 
 ### 🟠 **I'm not actively looking for new offers...**
 
-<sub>(Am I _really_ not? 🤔)</sub>
+<sub>(Am I though? 🤔)</sub>
 
 ---
 
