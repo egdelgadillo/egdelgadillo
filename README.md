@@ -11,9 +11,15 @@
 
 #### Freelance Software Developer, IT Pro & Tech Enthusiast
 
-Self-taught, fast-learner and highly motivated Fullstack Software Developer, specializing in Typescript. Born in '91, I have  great passion for what I do, specially when I code; I see it as an art form. I don't like AI taking over, although I do let it help me with menial tasks, specially when it comes to plain text geneation/interpretation (Not this though, what you're reading is 100% handmade)
+Self-taught, fast-learner and highly motivated **Fullstack Software Developer**, specializing in Typescript.
 
-I'm currently living in **Paraguay** (_GMT-3_), but I'm originally from **Argentina**, the country of the world-famous 🥩 **Asado** and one of the world's biggest 🧉 **Mate** consumers per capita. Both have accompanied me through my life, from a toddler to a professional developer; I share my dearest memories with them.
+Born in **'91**, I have  **great passion** for what I do, specially when I code; I see it as an _art form_. **I don't let 🤖 AI take over**, although I do let it help me with menial tasks, specially when it comes to plain text geneation/interpretation (Not this though, what you're reading is 100% handmade!)
+
+I'm currently living in **Paraguay** (_GMT-3_), but I'm originally from **Argentina**, the country of the world-famous 🥩 **Asado** and one of the world's biggest 🧉 **Mate** consumers per capita. The latter, specially, has accompanied me through my life, from a toddler to a professional developer.
+
+Nobody's perfect and I don't claim to be. _I make mistakes_ like everybody else and **I'll be the first to admit them**.
+
+I'm funny, I have _strong opinions_ and I like debating; _If I don't like it you'll know about it_ (But you'll have fun, I promise). But I'm **open** to new suggestions and trying out new stuff, even if it's difficult. **No guts no glory!**
 
 ## [About Me](./About%20Me.md)
 
@@ -64,7 +70,6 @@ My current status is:
 -->
 
 You can contact me (_by order of importance_) via [Email](mailto:emilianog.delgadillo@gmail.com), [LinkedIn](https://www.linkedin.com/in/emiliano-delgadillo-08b2a6196/), [Twitter](https://twitter.com/egdelgadillo), [StackOverflow](https://stackoverflow.com/users/14107359/emiliano-g-delgadillo), or even [Github](https://github.com/egdelgadillo/egdelgadillo/issues) (Yeah, you can write me an issue on this repo, why not? 😛)
-
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/egdelgadillo)
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:emilianog.delgadillo@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-g-delgadillo-08b2a6196/)
