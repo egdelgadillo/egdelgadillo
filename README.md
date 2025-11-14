@@ -45,9 +45,9 @@ I'm funny, I have _strong opinions_ and I like debating; _If I don't like it you
 
 My current status is:
 
-### 🔴 **I'm NOT open to new offers right now.**
+### 🟠 **I'm not actively looking for new offers...**
 
-<sub>(_Yikes!_ 😔, but feel free to contact me, we can chat!)</sub>
+**Unless you're offering a work visa in Europe or the US!**
 
 <!--
 
@@ -70,6 +70,8 @@ My current status is:
 -->
 
 You can contact me (_by order of importance_) via [Email](mailto:emilianog.delgadillo@gmail.com), [LinkedIn](https://www.linkedin.com/in/emiliano-delgadillo-08b2a6196/), [Twitter](https://twitter.com/egdelgadillo), [StackOverflow](https://stackoverflow.com/users/14107359/emiliano-g-delgadillo), or even [Github](https://github.com/egdelgadillo/egdelgadillo/issues) (Yeah, you can write me an issue on this repo, why not? 😛)
+
+
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/egdelgadillo)
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:emilianog.delgadillo@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-g-delgadillo-08b2a6196/)
